@@ -3,7 +3,7 @@
 /**
  * main - first 0putshar for number
  *
- * Return: code verfier 0.
+ * Return: always 0 (seccess.)
  */
 int main(void)
 {
