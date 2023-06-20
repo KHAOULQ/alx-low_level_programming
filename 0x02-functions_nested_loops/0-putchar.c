@@ -1,9 +1,10 @@
 #include <stdio.h>
 #include "main.h"
+
 /**
- * main - first 0putshar for number
- *
- * Return: always 0 (seccess.)
+ * main - Entry point.
+ * Description: write a program that prints "_putchar" 
+ * Return: Always 0 (Success.)
  */
 int main(void)
 {
