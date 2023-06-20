@@ -6,13 +6,13 @@
  */
 int main(void)
 {
-char c[] = "_putchar";
-int i;
+   char c[] = "_putchar";
+   int i;
 for (i = 0; i < 8; i++)
 {
-putchar(c[i]);
+   putchar(c[i]);
 }
-putchar('\n');
+   putchar('\n');
 return (0);
 }
 
